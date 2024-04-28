@@ -29,7 +29,7 @@ s3://ipl-data-analysis-project/
 
 ## Steps to run the code
 1. Clone the repository
-2. Create compute and notbook in Databricks to run Spark code/notebook
+2. Create compute and notebook in Databricks to run Spark code/notebook
     - Register for Databricks community edition (free)
     - Create compute
         - Click "Compute" --> Create compute
@@ -41,6 +41,6 @@ s3://ipl-data-analysis-project/
         Driver: 15.3 GB Memory, 2 Cores, 1 DBU
         ```
 3. Run the code
-    - In Databricks UI, Create or import the notebook "ipl_data_analysis_spark.ipynb"
+    - In Databricks UI, create or import the notebook "ipl_data_analysis_spark.ipynb"
     - Click "Run All"
 
